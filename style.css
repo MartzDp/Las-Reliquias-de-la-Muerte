@@ -1,0 +1,48 @@
+body {
+    background: linear-gradient(to bottom right, #946b2d, #222f5b, #bebebe, #946b2d, #0e1a40);
+}
+
+#navbar {
+    font-family: 'Harry Potter', sans-serif;
+    font-size: xxx-large;
+    padding: 20px;
+}
+
+#contenido {
+    font-family: 'Mount Italic PERSONAL USE ONLY', sans-serif;
+    font-family: 'Mount PERSONAL USE ONLY', sans-serif;
+}
+
+section {
+    font-family: 'SPQR', sans-serif;
+    font-family: 'SPQR Italic', sans-serif;
+}
+
+#manto {
+    border-radius: 30px;
+}
+
+#piedra {
+    border-radius: 30px;
+}
+
+#varita {
+    border-radius: 30px;
+}
+
+.wrap-texto {
+    background-image: url("assets/pergamino.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    text-align: center;
+    font-size: 9.5px;
+    padding: 6em 5em 5em;
+
+
+}
+
+h1 {
+    font-size: 18px;
+}
